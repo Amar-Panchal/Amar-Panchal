@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amar-Panchal](https://github.com/Amar-Panchal)
+- 👨‍💻 All of my projects are available at [https://github.com/Amar-Panchal]
 
 - 💬 Ask me about **Front end development**
 
