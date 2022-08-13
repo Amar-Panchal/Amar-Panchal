@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-    👩‍💻 I am a 21 years old Web-Developer from India 🏡.<br><br>
-    🎓 I am completed my B.tech(Cse) in 2022.<br><br>
-    🌱 I’m currently learning Full Stack Java Development.<br><br>
+    👩‍💻 I am a 21 years old Web-Developer from India 🏡.
+    🎓 I am recently completed my B.tech(Cse) in 2022.
+    🌱 I’m currently learning Full Stack Java Development.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.github.com/Amar-Panchal)**
 - 📫 How to reach me **amarpanchal2001@gmail.com**
@@ -79,9 +79,8 @@
 ## Connect with me:
 <p valign="left">
 
-<a href = "https://www.linkedin.com/in/amar-panchal" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/amar-panchal-5003651a4" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/amar__panchal" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "amarpanchal2001@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" ></a>
 
 <hr>
 
